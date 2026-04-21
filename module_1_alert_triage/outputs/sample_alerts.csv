@@ -1,0 +1,81 @@
+﻿customer_id,triggered_rules,rule_count,risk_score,risk_tier,alert_reason
+C0045,"new_account_large_txn, shared_device_multi_account, structured_transactions",3,60,High,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용 / 7일 이내 9백만~9백99만원 거래 3회 이상 (CTR 회피 의심)
+C0030,"new_account_large_txn, profile_mismatch, shared_device_multi_account",3,55,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 저소득 신고 고객 월 거래액 50백만원 초과 / 3개 이상 계정이 공유하는 단말기 사용
+C0002,"shared_device_multi_account, structured_transactions",2,40,Medium,3개 이상 계정이 공유하는 단말기 사용 / 7일 이내 9백만~9백99만원 거래 3회 이상 (CTR 회피 의심)
+C0001,"daily_cash_aggregation, shared_device_multi_account",2,35,Medium,동일 영업일 현금 합계 10백만원 이상 / 3개 이상 계정이 공유하는 단말기 사용
+C0023,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0060,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0064,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0074,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0082,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0038,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0090,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0010,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0025,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0049,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0004,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0097,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0067,"new_account_large_txn, shared_device_multi_account",2,35,Medium,계좌 개설 30일 이내 5백만원 초과 거래 / 3개 이상 계정이 공유하는 단말기 사용
+C0087,new_account_large_txn,1,20,Low,계좌 개설 30일 이내 5백만원 초과 거래
+C0069,new_account_large_txn,1,20,Low,계좌 개설 30일 이내 5백만원 초과 거래
+C0075,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0036,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0083,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0012,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0005,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0059,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0084,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0070,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0024,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0091,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0052,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0088,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0053,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0072,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0050,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0007,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0035,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0011,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0013,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0037,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0061,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0017,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0022,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0054,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0076,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0042,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0071,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0015,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0065,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0093,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0085,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0078,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0062,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0044,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0034,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0046,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0021,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0009,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0029,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0051,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0094,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0098,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0018,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0006,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0019,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0048,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0081,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0096,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0058,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0068,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0032,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0040,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0027,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0089,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0056,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0031,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0077,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0086,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0100,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0026,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
+C0080,shared_device_multi_account,1,15,Low,3개 이상 계정이 공유하는 단말기 사용
