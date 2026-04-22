@@ -1,0 +1,20 @@
+sources:
+  - name: FATF News
+    url: https://www.fatf-gafi.org/content/fatf-gafi/en/publications.rss
+    language: en
+    category: international
+
+  - name: OFAC Recent Actions
+    url: https://ofac.treasury.gov/recent-actions/rss
+    language: en
+    category: sanctions
+
+  - name: 금융위원회 보도자료
+    url: https://www.fsc.go.kr/po010101/rss
+    language: ko
+    category: domestic
+
+  - name: 금융정보분석원 공지사항
+    url: https://www.kofiu.go.kr/kor/notification/notice.rss
+    language: ko
+    category: domestic
